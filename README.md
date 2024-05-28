@@ -1,4 +1,8 @@
 ## Hi there 👋
+Welcome to my page!
+I'm a student from South Korea, Busan
+
+## My Skills
 
 <!--
 **WadeMakesWave/WadeMakesWave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
